@@ -1,5 +1,22 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-This is the place where I opensource stuff and break things :rofl:
+### Hi there I am RizkySiregar 👋
 
-![Rizky Siregar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkysiregar&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rizkysiregar)](https://git.io/streak-stats)
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+
+<p align="left">
+<a href="https://github.com/zanuarts">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizkysiregar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizkysiregar&layout=compact&langs_count=8&theme=dark&hide=jupyter%20notebook,html,css"/>
+</a>
+</p>
