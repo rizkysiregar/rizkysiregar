@@ -1,6 +1,6 @@
 ### Hi there I am Habib Rizky A.Siregar 👋
 
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: LinkedIn : https://www.linkedin.com/in/rizkysiregardev/
 - 😄 Pronouns: He/Him
 -->
 
